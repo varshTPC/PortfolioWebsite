@@ -1,0 +1,22 @@
+body {
+    background-color: #e4eeeb;
+}
+h2 {
+    color: #00A8CC;
+}
+h3 {
+    color: #00A8CC;
+    
+}
+/* .firstskill {
+    color: red;
+}
+#secondskill {
+    color: blue;
+} */
+hr {
+    border-style: dotted none none none;
+    color: grey;
+    width: 5%;
+    border-width: 5px;
+}
